@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-hello 
+hello
 =======
 hello
 hello world!
