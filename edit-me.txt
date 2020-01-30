@@ -3,4 +3,5 @@ hello
 =======
 hello
 hello world!
+cool
 >>>>>>> 5fd9d28972085c8f4d7d14a52542f58d069683e1
